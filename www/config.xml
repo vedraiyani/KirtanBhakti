@@ -26,7 +26,7 @@
 	<gap:plugin name="org.apache.cordova.vibration"/>
 	<gap:plugin name="org.apache.cordova.dialogs"/>
 	<gap:plugin name="org.apache.cordova.device"/>
-	<gap:plugin name="jp.wizcorp.phonegap.plugin.localnotificationplugin" source="http://plugins.cordova.io/"/>
+	<gap:plugin name="jp.wizcorp.phonegap.plugin.localnotificationplugin" source="plugins.cordova.io"/>
 	
 	<feature name="debug-server" required="true">
     <param name="domain" value="http://192.168.137.1:8081"/>
